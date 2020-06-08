@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/horizoverlay/precache-manifest.efb1a8faa85777d0e7b813d1673a1446.js"
+  "/horizoverlay/precache-manifest.627f1b2ce43ff7d21ad387f2c09a02e7.js"
 );
 
 self.addEventListener('message', (event) => {

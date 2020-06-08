@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/horizoverlay/static/css/main.3656399b.chunk.css",
+    "main.css": "/horizoverlay/static/css/main.3ee53642.chunk.css",
     "main.js": "/horizoverlay/static/js/main.488b25ef.chunk.js",
     "main.js.map": "/horizoverlay/static/js/main.488b25ef.chunk.js.map",
     "runtime-main.js": "/horizoverlay/static/js/runtime-main.0c3f1105.js",
@@ -8,16 +8,16 @@
     "static/js/2.f381ad00.chunk.js": "/horizoverlay/static/js/2.f381ad00.chunk.js",
     "static/js/2.f381ad00.chunk.js.map": "/horizoverlay/static/js/2.f381ad00.chunk.js.map",
     "index.html": "/horizoverlay/index.html",
-    "precache-manifest.3a084652ffbccfada7de87a31ad506c8.js": "/horizoverlay/precache-manifest.3a084652ffbccfada7de87a31ad506c8.js",
+    "precache-manifest.ed2516a6642e46c0f41666c676ec63d0.js": "/horizoverlay/precache-manifest.ed2516a6642e46c0f41666c676ec63d0.js",
     "service-worker.js": "/horizoverlay/service-worker.js",
-    "static/css/main.3656399b.chunk.css.map": "/horizoverlay/static/css/main.3656399b.chunk.css.map",
+    "static/css/main.3ee53642.chunk.css.map": "/horizoverlay/static/css/main.3ee53642.chunk.css.map",
     "static/js/2.f381ad00.chunk.js.LICENSE.txt": "/horizoverlay/static/js/2.f381ad00.chunk.js.LICENSE.txt",
     "static/media/mog.png": "/horizoverlay/static/media/mog.e1e18820.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0c3f1105.js",
     "static/js/2.f381ad00.chunk.js",
-    "static/css/main.3656399b.chunk.css",
+    "static/css/main.3ee53642.chunk.css",
     "static/js/main.488b25ef.chunk.js"
   ]
 }

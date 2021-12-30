@@ -523,10 +523,10 @@
 
 .row.self.byJob.Sge .data-items.highlight:before {
   background-image: linear-gradient(to left,
-      rgba(128, 160, 240, 0.5) 0%,
+      rgba(128, 160, 240, 1.0) 0%,
       rgba(128, 160, 240, 0.5) 51%,
-      rgba(128, 160, 240, 0.5) 51%,
-      rgba(128, 160, 240, 0.5) 100%);
+      rgba(128, 160, 240, 0.1) 51%,
+      rgba(128, 160, 240, 0.1) 100%);
   background-repeat: no-repeat;
 }
 
@@ -536,10 +536,10 @@
 
 .row.byJob.Sge .data-items.highlight:before {
   background-image: linear-gradient(to left,
-      rgba(128, 160, 240, 0.5) 0%,
-      rgba(128, 160, 240, 0.5) 51%,
-      rgba(128, 160, 240, 0.5) 51%,
-      rgba(128, 160, 240, 0.5) 100%);
+  rgba(128, 160, 240, 1.0) 0%,
+  rgba(128, 160, 240, 0.5) 51%,
+  rgba(128, 160, 240, 0.1) 51%,
+  rgba(128, 160, 240, 0.1) 100%);
   background-repeat: no-repeat;
 }
 

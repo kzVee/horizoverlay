@@ -323,16 +323,16 @@
   background-repeat: no-repeat;
 }
 
-.row.byJob.Rpr .data-items:before {
-  background: rgba(150, 90, 144, 0.5);
+.row.byJob.Vpr .data-items:before {
+  background: rgba(16, 130, 16, 0.5);
 }
 
-.row.byJob.Rpr .data-items.highlight:before {
+.row.byJob.Vpr .data-items.highlight:before {
   background-image: linear-gradient(to left,
-      rgba(150, 90, 144, 1.0) 0%,
-      rgba(150, 90, 144, 0.5) 51%,
-      rgba(150, 90, 144, 0.1) 51%,
-      rgba(150, 90, 144, 0.1) 100%);
+      rgba(16, 130, 16, 1.0) 0%,
+      rgba(16, 130, 16, 0.5) 51%,
+      rgba(16, 130, 16, 0.1) 51%,
+      rgba(16, 130, 16, 0.1) 100%);
   background-repeat: no-repeat;
 }
 .row.byJob.Brd .data-items:before {
@@ -410,6 +410,19 @@
       rgba(233, 123, 124, 0.5) 51%,
       rgba(233, 123, 124, 0.1) 51%,
       rgba(233, 123, 124, 0.1) 100%);
+  background-repeat: no-repeat;
+}
+
+.row.byJob.Pct .data-items:before {
+  background: rgba(252, 146, 225, 0.5);
+}
+
+.row.byJob.Pct .data-items.highlight:before {
+  background-image: linear-gradient(to left,
+      rgba(252, 146, 225, 1.0) 0%,
+      rgba(252, 146, 225, 0.5) 51%,
+      rgba(252, 146, 225, 0.1) 51%,
+      rgba(252, 146, 225, 0.1) 100%);
   background-repeat: no-repeat;
 }
 

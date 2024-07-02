@@ -310,11 +310,11 @@
   background-repeat: no-repeat;
 }
 
-.row.self.byJob.Rpr .data-items:before {
+.row.byJob.Rpr .data-items:before {
   background: rgba(150, 90, 144, 0.5);
 }
 
-.row.self.byJob.Rpr .data-items.highlight:before {
+.row.byJob.Rpr .data-items.highlight:before {
   background-image: linear-gradient(to left,
       rgba(150, 90, 144, 1.0) 0%,
       rgba(150, 90, 144, 0.5) 51%,
